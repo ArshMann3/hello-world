@@ -1,2 +1,2 @@
 # hello-world
-Prints "Hello World!"
+This progran prints "Hello World!" as a string.
